@@ -79,17 +79,9 @@ This repository contains Maple implementations of fundamental numerical analysis
   - **PDF documentation** - Mathematical theory and results
   - **LaTeX source** (`.tex`) - Reproducible documentation
 
-## 🎯 Learning Objectives
-By the end of this course, students will be able to:
-- Analyze and quantify computational errors in numerical algorithms
-- Implement polynomial interpolation techniques for data approximation
-- Solve nonlinear equations using various numerical methods
-- Perform numerical differentiation and integration
-- Solve ordinary differential equations numerically
-- Apply direct and iterative methods to linear systems
 
 ## 📊 Algorithm Performance
-Each implementation includes:
+Depending on the algorithm, implementations includes:
 - **Convergence analysis** - Rate and conditions for convergence
 - **Error bounds** - Theoretical and practical error estimates
 - **Computational complexity** - Time and space requirements
@@ -106,10 +98,9 @@ This repository serves as a comprehensive reference for numerical analysis imple
 Bachelor of Science in Mathematics  
 Brooklyn College, CUNY  
 - Portfolio: [barcogregory.com](https://barcogregory.com/)
-- GitHub: [@gregorybarco](https://github.com/gregorybarco)
+- Use the contact section
 
 ## 📄 License
 This project is created for educational purposes as part of Math 4701 coursework at Brooklyn College.
 
 ---
-*"The purpose of computing is insight, not numbers."* - Richard Hamming
