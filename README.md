@@ -2,100 +2,44 @@
 **Brooklyn College, City University of New York**  
 **Gregory Barco** | [Portfolio](https://barcogregory.com/) | [GitHub](https://github.com/gregorybarco)
 
-## Course Overview
-This repository contains Maple implementations and developments of fundamental numerical analysis algorithms. The course analyzes basic techniques for the efficient numerical solution of problems in science and engineering, spanning root finding, interpolation, approximation of functions, integration, differential equations, and direct and iterative methods in linear algebra.
+## Overview
+This repository contains Maple implementations of fundamental numerical analysis algorithms from Math 4701. Topics include root finding, interpolation, numerical integration, differential equations, and linear system solving methods.
 
-## 📚 Course Information
-- **Course**: Math 4701 (Numerical Analysis)
-- **Programming Language**: Maple (Computer Algebra System)
+## 📁 What's Inside
 
-## 📁 Repository Structure
+**Interpolation & Approximation**
+- Lagrange Interpolation
+- Newton Interpolation  
+- Hermite Interpolation
 
-### 1. Error Analysis
-- Floating point number representations
-- Absolute and relative error calculations
-- Round-off and truncation error analysis
-- Remainder term applications in Taylor's formula
+**Root Finding Methods**
+- Bisection Method
+- Newton's Method
+- Fixed-Point Iteration
 
-### 2. Interpolation and Polynomial Approximation
-- **Lagrange Interpolation** - Polynomial fitting through data points
-- **Newton Interpolation** - Divided difference approach
-- **Hermite Interpolation** - Interpolation with derivative constraints
+**Numerical Integration & Differentiation**
+- Composite integration formulas
+- Function derivative approximation
 
-### 3. Solution of Nonlinear Equations
-- **Bisection Method** - Root finding via interval halving
-- **Fixed-Point Iteration** - Iterative approximation techniques
-- **Aitken's Acceleration** - Convergence enhancement methods
-- **Newton's Method** - Tangent-based root approximation
+**Differential Equations**
+- Euler's Method
+- Runge-Kutta Methods
+- Higher-Order Taylor Methods
 
-### 4. Numerical Differentiation and Integration
-- Numerical differentiation of discrete data tables
-- Function derivative approximation techniques
-- Simple numerical integration formulas
-- Composite integration methods
+**Linear Systems**
+- Gaussian Elimination
+- Gauss-Seidel Iteration
+- Jacobi Iteration
 
-### 5. Initial-Value Problems for ODEs
-- **Euler's Method** - First-order differential equation solving
-- **Higher-Order Taylor Methods** - Enhanced accuracy approaches
-- **Runge-Kutta Methods** - Multi-stage integration techniques
+## 🛠️ Tech Stack
+- **Maple** - Algorithm implementation
+- **LaTeX** - Documentation
+- **Git/GitHub** - Version control
 
-### 6. Linear Systems and Iterative Techniques
-- **Gaussian Elimination** - Direct matrix solution methods
-- **Cholesky Factorization** - Symmetric positive definite systems
-- **Jacobi Iteration** - Parallel iterative solving
-- **Gauss-Seidel Iteration** - Sequential iterative improvement
-- **Cubic Splines** *(optional)*
-- **Power Method for Eigenvalues** *(optional)*
-
-## 🛠️ Technologies Used
-- **Maple** - Primary computational environment
-- **LaTeX** - Documentation and report generation
-- **Git/GitHub** - Version control and collaboration
-
-## 📖 How to Use This Repository
-
-### Prerequisites
-- Maple software (version 2022.2 or later recommended)
-- Basic understanding of numerical methods
-- Familiarity with mathematical computing concepts
-
-### Running the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/gregorybarco/mathematics.git
-   ```
-2. Open Maple and navigate to the desired algorithm folder
-3. Open the `.maple` files in Maple
-4. Execute the worksheets to see the implementations in action
-
-### File Organization
-- Each algorithm includes:
-  - **Maple worksheet** (`.maple`) - Implementation and examples
-  - **PDF documentation** - Mathematical theory and results
-  - **LaTeX source** (`.tex`) - Reproducible documentation
-
-
-## 📊 Algorithm Performance
-Depending on the algorithm, implementations includes:
-- **Convergence analysis** - Rate and conditions for convergence
-- **Error bounds** - Theoretical and practical error estimates
-- **Computational complexity** - Time and space requirements
-- **Numerical examples** - Verification with known solutions
-
-## 🤝 Contributing
-This repository serves as a comprehensive reference for numerical analysis implementations. Feel free to:
-- Report issues with existing implementations
-- Suggest improvements to algorithms
-- Add additional test cases or examples
+## 📖 Usage
+Each algorithm includes Maple worksheets (`.maple`), PDF documentation, and LaTeX source files. Clone the repo and open the `.maple` files in Maple to run the implementations.
 
 ## 📞 Contact
 **Gregory Barco**  
-Bachelor of Science in Mathematics  
 Brooklyn College, CUNY  
-- Portfolio: [barcogregory.com](https://barcogregory.com/)
-- Use the contact section
-
-## 📄 License
-This project is created for educational purposes as part of Math 4701 coursework at Brooklyn College.
-
----
+[Portfolio](https://barcogregory.com/)
