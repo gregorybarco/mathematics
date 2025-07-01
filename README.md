@@ -11,10 +11,6 @@ This repository contains Maple implementations of fundamental numerical analysis
 - **Programming Language**: Maple (Computer Algebra System)
 - **Semester**: Fall 2023
 
-### Suggested Textbooks
-- *Introduction to Numerical Analysis with C programs* by Attila Máté
-- *Numerical Analysis* by Richard Burden and Douglas Faires
-
 ## 📁 Repository Structure
 
 ### 1. Error Analysis
