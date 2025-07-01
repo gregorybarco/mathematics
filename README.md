@@ -1,15 +1,13 @@
-# Math 4701: Numerical Analysis
+# Mathematics: Numerical Analysis
 **Brooklyn College, City University of New York**  
 **Gregory Barco** | [Portfolio](https://barcogregory.com/) | [GitHub](https://github.com/gregorybarco)
 
 ## Course Overview
-This repository contains Maple implementations of fundamental numerical analysis algorithms studied in Math 4701. The course analyzes basic techniques for the efficient numerical solution of problems in science and engineering, spanning root finding, interpolation, approximation of functions, integration, differential equations, and direct and iterative methods in linear algebra.
+This repository contains Maple implementations and developments of fundamental numerical analysis algorithms. The course analyzes basic techniques for the efficient numerical solution of problems in science and engineering, spanning root finding, interpolation, approximation of functions, integration, differential equations, and direct and iterative methods in linear algebra.
 
 ## 📚 Course Information
 - **Course**: Math 4701 (Numerical Analysis)
-- **Credits**: 4 hours, 4 credits
 - **Programming Language**: Maple (Computer Algebra System)
-- **Semester**: Fall 2023
 
 ## 📁 Repository Structure
 
@@ -35,14 +33,11 @@ This repository contains Maple implementations of fundamental numerical analysis
 - Function derivative approximation techniques
 - Simple numerical integration formulas
 - Composite integration methods
-- Adaptive integration algorithms *(optional)*
-- Romberg integration techniques *(optional)*
 
 ### 5. Initial-Value Problems for ODEs
 - **Euler's Method** - First-order differential equation solving
 - **Higher-Order Taylor Methods** - Enhanced accuracy approaches
 - **Runge-Kutta Methods** - Multi-stage integration techniques
-- **Predictor-Corrector Methods** *(optional)*
 
 ### 6. Linear Systems and Iterative Techniques
 - **Gaussian Elimination** - Direct matrix solution methods
