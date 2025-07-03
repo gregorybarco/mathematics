@@ -1,4 +1,5 @@
 # Mathematics: Numerical Analysis Methods
+Numerical Analysis: Machine Learning and Data Analysis Algorithms
 **Brooklyn College, City University of New York**  
 **Gregory Barco** | [Portfolio](https://barcogregory.com/) | [GitHub](https://github.com/gregorybarco)
 
