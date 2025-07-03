@@ -1,6 +1,7 @@
 # Mathematics:
 **Brooklyn College, City University of New York**  
 **Numerical Analysis, Machine Learning, & Data Analysis Algorithms**
+
 **Gregory Barco** | [Portfolio](https://barcogregory.com/) | [GitHub](https://github.com/gregorybarco)
 
 ## Overview
